@@ -1,0 +1,268 @@
+{
+  "recenzii": [
+    {}
+  ],
+  "users": [
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$/uDyiyDYN3fp4bNFDAbx.efceGPyYYzS7o/8Z6g1zNoMnRhLHmxCq",
+      "fName": "andreeea",
+      "lName": "baltatu",
+      "id": 1
+    },
+    {
+      "email": "b@a.com",
+      "password": "$2a$10$yh6umvfdge5qSQdaMZbI0eea8cn5TqACN2ZpixeQ2FuCEhwTrgShO",
+      "fName": "andreeea",
+      "lName": "baltatu",
+      "id": 2
+    }
+  ],
+  "dogproducts": [
+    {
+      "id": 1,
+      "title": "Hrana semi-umeda pentru caini Petkult adult talie mica curcan caprioara si orez 5 kg",
+      "descriere": "Hrana semi-umeda pentru caini Petkult adult talie mica curcan caprioara si orez 5 kg este conceputa dupa o reteta naturala,cu continut ridicat de carne: carne proaspata de curcan 40%,carne deshidratata de caprioara 20%,carbohidrati usor digerabili si produse vegetale benefice pentru organism.",
+      "beneficii": "Principalele beneficii ale hranei semi-umede pentru caini Petkult adult talie mica curcan caprioara si orez 5 kg:Nu contine descrierele cunoscute cu potential alergogen; Digestie sanatoasa;Gust deosebit - continut ridicat de descriere de origine animala.",
+      "poza": "https://i.imgur.com/FzRGu9h.png",
+      "pret": 167,
+      "gramaj": "5 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 2,
+      "title": "Hrana uscata pentru caini Acana Classic Prairie Poultry 17 kg",
+      "descriere": "Hrana uscata pentru caini Acana Classic Prairie Poultry 17 kg asigura o alimentatie completa pentru toate rasele de caini si toate stadiile de viata indiferent de talie.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru caini Acana Classic Prairie Poultry 17 kg: Nu contine carbohidrati inalt glicemici;Contine proteine hranitoare si grasimi, limitand carbohidratii nedoriti;Fara concentrate proteice din plante.",
+      "poza": "https://i.imgur.com/ayEMkSD.png",
+      "pret": 399.99,
+      "gramaj": "17 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 3,
+      "title": "Acana Heritage Adult Large Breed 17 kg ",
+      "descriere": "Hrana uscata pentru caini Acana Heritage Adult Large Breed 17 kg nu contine cereale si este potrivita pentru caini adulti din toate rasele, de talie mare cu o greutate mai mare de 25 kg.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru caini Acana Heritage Adult Large Breed 17 kg:Nu contin arome, coloranti, conservanti sau aditivi sintetici;Hrana asigura protectia articulara a canilor de talie mare printr-un nivel optim de glucozamina si condroitina;descriere usor digerabile.",
+      "poza": "https://i.imgur.com/ecsmJu7.png",
+      "pret": 474,
+      "gramaj": "17 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 4,
+      "title": "Hrana uscata pentru caini Royal Canin Mini Adult 8 kg",
+      "descriere": "proteina deshidratata de pasare, porumb, faina de porumb, grasimi animale, gluten de porumb, izolat proteic vegetal*, grau, proteine animale hidrolizate, orez, pulpa de sfecla, minerale, ulei de peste, ulei de soia, drojdii, Fructo-Oligo-Zaharide (FOS).",
+      "beneficii": "Piele sanatoasa si roba stralucitoare, Continut adaptat de energie.",
+      "poza": "https://i.imgur.com/Gk6muU9.png",
+      "pret": 229,
+      "gramaj": "7 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 5,
+      "title": "Hrana uscata pentru caini Petkult Sensitive Maxi Adult cu miel si orez 12 kg",
+      "descriere": "Hrana uscata pentru caini Petkult Sensitive Maxi Adult cu miel si orez 12 kg este potrivita pentru cainii cu probleme digestive sau sensibili si asigura toate substantele necesare unei cresteri sanatoase.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru caini Petkult Sensitive Maxi Adult cu miel si orez 12 kg:Nu contine ingredientele cunoscute cu potential alergogen;Contribuie la protejarea articulatiilor si a oaselor;Contine crustaceele Krill care sunt o sursa bogata in acizi grasi esentiali Omega 3",
+      "poza": "https://i.imgur.com/oNAss8K.png",
+      "pret": 277,
+      "gramaj": "12 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 6,
+      "title": "Hrana uscata pentru caini Bosch Adult cu miel si orez 15 kg",
+      "descriere": "Hrana uscata pentru caini Bosch Adult cu miel si orez 15 kg reprezinta o alimentatie completa si echilibrata destinata cainilor adulti (cu varsta peste 1 an) ce au un nivel normal de activitate.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru caini Bosch Adult cu miel si orez 15 kg: Reprezinta o optiune excelenta pentru caini adulti cu sensibilitate digestiva;Potrivita pentru caini de toate rasele si taliile;Continutul de calciu si fosfor se regaseste in mod natural in ingredientele produsului.",
+      "poza": "https://i.imgur.com/JKN2dCA.jpg",
+      "pret": 205,
+      "gramaj": "15 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 7,
+      "title": "Hrana uscata pentru caini Petkult Sensitive Maxi Junior cu miel si orez 12 kg",
+      "descriere": "Hrana uscata pentru caini Petkult Sensitive Maxi Junior cu miel si orez 12 kg contine ingrediente 100% naturale, cu o formula avansata care asigura nutrientii necesari pentru sanatatea si bunastarea cainilor juniori de talie mare (6-18 luni).",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru caini Petkult Sensitive Maxi Junior cu miel si orez 12 kg:Nu contine ingredientele cunoscute cu potential alergogen;Contribuie la protejarea articulatiilor si a oaselor;Contine crustaceele Krill care sunt o sursa bogata in acizi grasi esentiali Omega 3",
+      "poza": "https://i.imgur.com/QzfVvU6.png",
+      "pret": 306,
+      "gramaj": "12 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 8,
+      "title": "Hrana uscata pentru caini Royal Canin Maxi Puppy 15 kg",
+      "descriere": "Hrana uscata pentru caini Royal Canin Maxi Puppy 15 kg - Hrana completa pentru cateii de talie mare, cu greutatea de adult cuprinsa intre 26 si 44kg si varsta intre 2 si 15 luni",
+      "beneficii": "Furnizează un aport energetic moderat, optim pentru perioada indelungata de crestere a cainilor de talie mare.",
+      "poza": "https://i.imgur.com/iYjliN9.png",
+      "pret": 399,
+      "gramaj": "15 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 9,
+      "title": "Hrana uscata pentru caini Devora Grain Free cu somon 4 kg",
+      "descriere": "Hrana uscata pentru caini Devora Grain Free cu somon 4 kg reprezinta o alimentatie ultrapremium, hipoalergica, cu somon, destinata cainilor adulti.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru caini Devora Grain Free cu somon 4 kg:Hrana produsa din ingrediente naturale, de calitate superioara;Contribuie la prevenirea aparitiei alergiilor alimentare;Are palatabilitate si digestibilitate ridicate.",
+      "poza": "https://i.imgur.com/DKK7Xco.jpg",
+      "pret": 147,
+      "gramaj": "4 kg",
+      "categorie": "hranacaini"
+    },
+    {
+      "id": 10,
+      "title": "Hrana uscata pentru caini Royal Canin Medium Adult 15 kg",
+      "descriere": "Hrana uscata pentru caini Royal Canin Medium Adult 15 kg - Hrana completa pentru caini adulti de talie medie, cu greutatea cuprinsa intre 11 si 25 kg si varsta peste 12 luni.",
+      "beneficii": "Asigura o digestie optima datorita retetei exclusive, cu un continut de proteine de calitate superioara si un aport echilibrat de fibre alimentare.",
+      "poza": "https://i.imgur.com/KCLxX1h.png",
+      "pret": 369,
+      "gramaj": "15 kg",
+      "categorie": "hranacaini"
+    }
+  ],
+  "catproducts": [
+    {
+      "id": 11,
+      "title": "Hrana uscata pentru pisici Royal Canin Sterilised 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Sterilised 10 kg - Hrana echilibrata si completa special adaptata nevoilor nutritionale ale pisicilor adulte sterlizate, cu varsta cuprinsa intre 1 si 7 ani.",
+      "beneficii": "Dupa sterilizare, necesarul energetic al pisicii scade. Sterilised 37 ajuta la limitarea riscului de crestere in greutate datorita continutului moderat de grasimi si a portiilor zilnice de hrana atent dozate.",
+      "poza": "https://i.imgur.com/81RLJKw.png",
+      "pret": 399.99,
+      "gramaj": "10 kg",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 12,
+      "title": "Hrana uscata pentru pisici Royal Canin Kitten 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Kitten 10 kg reprezinta o alimentatie echilibrata si completa special adaptata nevoilor nutritionale ale pisoilor aflati in a-2-a etapa de crestere (cu varsta cuprinsa intre 4 si 12 luni).",
+      "beneficii": "Continut adaptat de proteine, vitamine si minerale inclusiv vitamina D si calciu. Continut ridicat de energie, potrivit acestei perioade de crestere intensa.",
+      "poza": "https://i.imgur.com/fSCFcgx.png",
+      "pret": 464,
+      "gramaj": "10 kg",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 13,
+      "title": "Hrana uscata pentru pisici Petkult Sterilised 7 kg",
+      "descriere": "Hrana uscata pentru pisici Petkult Sterilised 7 kg asigura o alimentatie completa pentru pisici adulte sterilizate.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Petkult Sterilised 7 kg:Mentinerea unei greutati corporale optime;Extra protectie a tractului urinar;Savoare si gust deosebit.",
+      "poza": "https://i.imgur.com/W7PNOuv.png",
+      "pret": 251,
+      "gramaj": "7 kg",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 14,
+      "title": "Hrana uscata pentru pisici Sanabelle Kitten 10 kg",
+      "descriere": "Hrana uscata pentru pisici Sanabelle Kitten 10 kg asigura o alimentatie completa pentru pisoi si pisici gestante sau care alapteaza.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Kitten 10 kg :Este bogata in energie pentru o crestere optima;Intareste imunitatea naturala;Regleaza flora intestinala si scaunul. ",
+      "poza": "https://i.imgur.com/tvofXzB.jpg",
+      "pret": 256,
+      "gramaj": "10 kg",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 15,
+      "title": "Hrana uscata pentru pisici Sanabelle Hair and Skin 10 kg",
+      "descriere": "Hrana uscata pentru pisici Sanabelle Hair and Skin 10 kg asigura o blana frumoasa, lucioasa si o piele sanatoasa datorita formulei bogate in uleiuri si grasimi.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/CMNuoI2.jpgg",
+      "pret": 324,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 16,
+      "title": "Hrana uscata pentru pisici Sanabelle Hair and Skin 10 kg",
+      "descriere": "Hrana uscata pentru pisici Sanabelle Hair and Skin 10 kg asigura o blana frumoasa, lucioasa si o piele sanatoasa datorita formulei bogate in uleiuri si grasimi.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/CMNuoI2.jpgg",
+      "pret": 324,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 17,
+      "title": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg - Hrana echilibrata si completa, special creata pentru pisicile adulte cu varsta cuprinsa intre 1 si 7 ani, ce traiesc exclusiv in casa.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/GJMvQQi.png",
+      "pret": 409,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 18,
+      "title": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg - Hrana echilibrata si completa, special creata pentru pisicile adulte cu varsta cuprinsa intre 1 si 7 ani, ce traiesc exclusiv in casa.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/GJMvQQi.png",
+      "pret": 409,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 19,
+      "title": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg - Hrana echilibrata si completa, special creata pentru pisicile adulte cu varsta cuprinsa intre 1 si 7 ani, ce traiesc exclusiv in casa.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/GJMvQQi.png",
+      "pret": 409,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 20,
+      "title": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg - Hrana echilibrata si completa, special creata pentru pisicile adulte cu varsta cuprinsa intre 1 si 7 ani, ce traiesc exclusiv in casa.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/GJMvQQi.png",
+      "pret": 409,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    },
+    {
+      "id": 21,
+      "title": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg",
+      "descriere": "Hrana uscata pentru pisici Royal Canin Indoor 10 kg - Hrana echilibrata si completa, special creata pentru pisicile adulte cu varsta cuprinsa intre 1 si 7 ani, ce traiesc exclusiv in casa.",
+      "beneficii": "Principalele beneficii ale hranei uscate pentru pisici Sanabelle Hair and Skin 10 kg :Hrana uscata completa pentru pisici adulte peste 12 luni;Bogata in uleiuri si grasimi speciale;Cu multa pasare proaspata foarte delicioasa si bine tolerata, furnizeaza proteine animale usor de digerat.",
+      "poza": "https://i.imgur.com/GJMvQQi.png",
+      "pret": 409,
+      "gramaj": "10 kg ",
+      "categorie": "hranapisici"
+    }
+  ],
+  "MICESPRODUCTS": [],
+  "ADOPTION": [
+    {
+      "id": 22,
+      "title": "Miky",
+      "descriere": "Bichon Maltese",
+      "varsta": "3",
+      "poza": "https://www.pupvine.com/wp-content/uploads/2021/08/Bichon-Frise-Colors-Is-White-Really-the-Only-Option.jpg",
+      "pret": 15,
+      "greutate": "6 kg ",
+      "categorie": "caine"
+    },
+    {
+      "id": 23,
+      "title": "Bobby",
+      "descriere": "Unknown",
+      "varsta": "7",
+      "poza": "https://ziarmm.ro/wp-content/uploads/2015/01/caine-maidanez.jpg",
+      "pret": 15,
+      "greutate": "7 kg ",
+      "categorie": "caine"
+    },
+    {
+      "id": 24,
+      "title": "Toby",
+      "descriere": "Husky",
+      "varsta": "3",
+      "poza": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F06%2F14%2Fsiberian-husky-puppy-grass-146571433-2000.jpg",
+      "pret": 15,
+      "greutate": "10 kg ",
+      "categorie": "caine"
+    }
+  ]
+}
